@@ -1,4 +1,7 @@
-#names=['krrish','karan','krish kumar','raj','vaibhav'] #marks=[80,99,79,98,85] #updation=[10,-5,20,-10,56] #rank=1 #previousRankMarks=100
+names=['krrish','karan','krish kumar','raj','vaibhav']
+marks=[80,99,79,98,85] 
+updation=[10,-5,20,-10,56] 
+rank=1 #previousRankMarks=100
 
 #for rank in range(1,6,1):
 
